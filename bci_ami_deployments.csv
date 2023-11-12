@@ -1,0 +1,7 @@
+﻿AMI ID,Camera ID,Latitude,Longitude,Single-board computer,Light type,Power,images_folder
+#1,E43B615A,9.163544,-79.8378812,Rock Pi,LED ring,Battery,trap1
+#2,BEF510C3,9.1619212,-79.8388263,Rock Pi,LED ring,Battery,trap2
+#3,2BD0E9C1,9.163177,-79.8381913,Raspberry Pi,PCB,Battery,trap3
+#4,2867OE4D,9.1665498,-79.8370742,Raspberry Pi,PCB,Battery,trap4
+#5,94CDAF87,9.156513,-79.8482278,Rock Pi,LED ring,Battery + Solar panel,trap5
+#6,OF58CB93,9.1581468,-79.8473376,Rock Pi,LED ring,Battery + Grid power,trap6
